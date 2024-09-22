@@ -1,0 +1,36 @@
+﻿  AI.cpp
+  Chess.cpp
+G:\Source\Repos\人机对战五子棋\Chess.cpp(109,58): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+G:\Source\Repos\人机对战五子棋\Chess.cpp(109,47): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+G:\Source\Repos\人机对战五子棋\Chess.cpp(110,58): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+G:\Source\Repos\人机对战五子棋\Chess.cpp(110,47): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+G:\Source\Repos\人机对战五子棋\Chess.cpp(115,59): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+G:\Source\Repos\人机对战五子棋\Chess.cpp(115,48): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+G:\Source\Repos\人机对战五子棋\Chess.cpp(116,59): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+G:\Source\Repos\人机对战五子棋\Chess.cpp(116,48): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+G:\Source\Repos\人机对战五子棋\Chess.cpp(121,59): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+G:\Source\Repos\人机对战五子棋\Chess.cpp(121,48): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+G:\Source\Repos\人机对战五子棋\Chess.cpp(122,59): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+G:\Source\Repos\人机对战五子棋\Chess.cpp(122,48): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+G:\Source\Repos\人机对战五子棋\Chess.cpp(127,59): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+G:\Source\Repos\人机对战五子棋\Chess.cpp(127,48): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+G:\Source\Repos\人机对战五子棋\Chess.cpp(128,59): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+G:\Source\Repos\人机对战五子棋\Chess.cpp(128,48): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+G:\Source\Repos\人机对战五子棋\Chess.cpp(138,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+G:\Source\Repos\人机对战五子棋\Chess.cpp(139,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+G:\Source\Repos\人机对战五子棋\Chess.cpp(140,18): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+G:\Source\Repos\人机对战五子棋\Chess.cpp(141,18): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+G:\Source\Repos\人机对战五子棋\Chess.cpp(142,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+G:\Source\Repos\人机对战五子棋\Chess.cpp(154,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+G:\Source\Repos\人机对战五子棋\Chess.cpp(163,58): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+G:\Source\Repos\人机对战五子棋\Chess.cpp(172,70): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+G:\Source\Repos\人机对战五子棋\Chess.cpp(172,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+G:\Source\Repos\人机对战五子棋\Chess.cpp(188,13): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+G:\Source\Repos\人机对战五子棋\Chess.cpp(195,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+G:\Source\Repos\人机对战五子棋\Chess.cpp(196,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  ChessGame.cpp
+  Man.cpp
+  源.cpp
+G:\Source\Repos\人机对战五子棋\源.cpp(10,26): warning C4305: “参数”: 从“double”到“float”截断
+  正在生成代码...
+  人机对战五子棋.vcxproj -> G:\Source\Repos\人机对战五子棋\x64\Debug\人机对战五子棋.exe
